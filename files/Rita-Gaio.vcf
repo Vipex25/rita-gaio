@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Rita Gaio
+N:;Rita Gaio;;;
+TITLE:Marketing Department
+TEL;TYPE=CELL:+351911027127
+EMAIL;TYPE=INTERNET:rita.gaio@vipex.pt
+URL:https://vipex25.github.io/rita-gaio/
+item1.URL;type=pref:https://www.linkedin.com/in/rita-gaio-19b0ba159/
+item1.X-ABLabel:LinkedIn
+item2.URL;type=pref:https://www.vipex.pt/en/home
+item2.X-ABLabel:Website
+item3.URL;type=pref:https://maps.app.goo.gl/QeAVZR8oF2E2f2Xu5
+item3.X-ABLabel:Location
+END:VCARD
